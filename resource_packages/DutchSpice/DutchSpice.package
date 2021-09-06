@@ -1,0 +1,11 @@
+mod = [
+	"DutchSpice"
+]
+
+package = [
+	"resource_packages/DutchSpice/DutchSpice"
+]
+
+lua = [
+	"scripts/mods/DutchSpice/*"
+]
